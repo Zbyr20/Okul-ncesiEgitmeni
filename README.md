@@ -1,20 +1,27 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
+# Okul Öncesi Eğitmeni: Harf ve Sayı Arkadaşı 🎨✨
 
-# Run and deploy your AI Studio app
+Merhaba! Bu uygulama, 3-6 yaş arası miniklerimizin dünyayı keşfederken en yakın yol arkadaşı olması için sevgiyle tasarlandı. Amacımız, çocukların harfleri ve sayıları sadece ezberleyerek değil, hayal güçlerini kullanarak, eğlenerek ve hareket ederek öğrenmelerini sağlamak.
 
-This contains everything you need to run your app locally.
+## 🌟 Bu Uygulama Ne Yapar?
 
-View your app in AI Studio: https://ai.studio/apps/3ff6e133-02a5-4218-8e19-27bb9b64767a
+Çocuğunuz ekrandaki renkli bir harfe veya sayıya dokunduğunda, karşısına neşeli ve sabırlı bir **Okul Öncesi Eğitmeni** çıkar. Bu eğitmen:
 
-## Run Locally
+- **Masalsı Anlatım:** Her karakteri günlük hayattan bir nesneye veya hayvana benzeterek anlatır (Örn: "S" harfi kıvrılan bir yılan, "8" sayısı üst üste binmiş iki simit gibi).
+- **Etkileşimli Görevler:** Hikayenin sonunda çocuğunuza "Zıpla!", "Havada parmağınla çiz!" veya "Gözlerini kapat!" gibi fiziksel görevler vererek öğrenmeyi aktif hale getirir.
+- **Sesli Arkadaşlık:** Tüm hikayeleri neşeli bir ses tonuyla seslendirerek okuma yazma bilmeyen miniklerimize rehberlik eder.
 
-**Prerequisites:**  Node.js
+## 🛡️ Güvenlik ve Gizlilik Bizim İçin Çok Önemli
 
+Çocuklarımızın dijital güvenliği her şeyden önce gelir. Bu yüzden uygulamamızda:
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+- **Güvenli İçerik:** Şiddet, korku, siyaset veya reklam gibi unsurlar kesinlikle yer almaz. Sadece doğa, hayvanlar ve oyuncaklar gibi çocuk dostu temalar kullanılır.
+- **Kişisel Veri Koruması:** Çocuğunuzdan asla isim, yaş veya konum gibi bilgiler istenmez.
+- **Ebeveyn Kapısı:** Yasal metinlere veya ayarlara erişim, sadece yetişkinlerin çözebileceği bir güvenlik sorusuyla korunur.
+
+## 🚀 Nasıl Başlanır?
+
+1. Uygulamayı açın ve karşınıza çıkan basit matematik sorusunu (Ebeveyn Kapısı) çözün.
+2. Çocuğunuzun keşfetmek istediği bir harfi veya sayıyı seçmesine izin verin.
+3. Hikayeyi dinleyin ve sonundaki eğlenceli görevi birlikte yapın!
+
+Miniklerimizin öğrenme yolculuğunda bir nebze olsun ışık tutabiliyorsak ne mutlu bize! İyi eğlenceler! 🎈
